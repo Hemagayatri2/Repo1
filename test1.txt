@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0287-B6FE
+
+ Directory of C:\Users\Gayi\Desktop\MyProject
+
+21-04-2020  22:08    <DIR>          .
+21-04-2020  22:08    <DIR>          ..
+21-04-2020  22:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  968,136,101,888 bytes free
